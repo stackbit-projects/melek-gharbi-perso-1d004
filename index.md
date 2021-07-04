@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/profile-pic (3).png
+    image: images/ms-icon-310x310.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
