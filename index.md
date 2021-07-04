@@ -58,7 +58,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Growth Strategy
+      - title: Growth Engineering
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
